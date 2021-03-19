@@ -13,17 +13,7 @@ This repository is used to build kubernetes cluster on RHEL8.3 EC2 instances run
 6.	FirewallD is disabled for the ease of the setup.
 
 
-## Usage:
-1.	Login to jump server with devops account
-2.	Clone this git repository.
-          $ git clone https://github.com/Moh-Aalim/kubernetes.git
-3.	Run setup_kubernetes.sh
-          $ cd kubernetes
-          $ ./ setup_kubernetes.sh
-
-
-
-#### Usage
+## Usage
                 
 + Login to jump server with devops account
 + Clone this git repository.
