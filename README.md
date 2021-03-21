@@ -31,5 +31,5 @@ k8s-node02    | 172.31.3.117
     
 + Run setup_kubernetes.sh
     * $ cd kubernetes
-    * $ ./ setup_kubernetes.sh
+    * $ ./setup_kubernetes.sh
     
